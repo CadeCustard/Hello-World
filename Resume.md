@@ -26,4 +26,4 @@ FCCLA (Family Career and Community Leaders of America)
 - Was assistant secretary and would write notes of meetings in a precise and timely manner
 #### STEM Club
 - Gathered members for the creation of the club becoming a founding member
-- Assisted others with projects and other wor
+- Assisted others with projects and other work
