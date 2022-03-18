@@ -6,3 +6,8 @@ Some of my favorite things are,
 - *Color*- Red
 - *Animal*- [Fennec Fox](https://en.wikipedia.org/wiki/Fennec_fox)
 - *Season*- Fall
+- *Cheese*- Parmesan
+
+### [My Resume](Resume.md)
+
+### A picture of beans
