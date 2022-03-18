@@ -10,4 +10,14 @@ Some of my favorite things are,
 
 ### [My Resume](Resume.md)
 
-### A picture of beans
+### Some code I've written
+[Area of a shape calculator](
+
+
+
+
+### A picture of beans 
+
+![](PictureOfBeans.jpg)
+
+### That definitly is some beans
