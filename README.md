@@ -8,13 +8,12 @@ Some of my favorite things are,
 - *Season*- Fall
 - *Cheese*- Parmesan
 
-### [My Resume](Resume.md)
+#### [My Resume](Resume.md)
 
 ### Some code I've written
-[Area of a shape calculator](
+[Area of a shape calculator](VolumeOfShapes.py)
 
-
-
+[Turtle Image](TurtleImageCode.py)
 
 ### A picture of beans 
 
