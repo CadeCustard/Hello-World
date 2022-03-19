@@ -19,4 +19,8 @@ Some of my favorite things are,
 
 ![](PictureOfBeans.jpg)
 
-### That definitly is some beans
+### That definitly is some beans, want some more?
+
+![image](https://user-images.githubusercontent.com/101840803/159098818-8e797765-2fcd-4f09-a266-3bfb4e3bdde9.png)
+
+### of course you do
