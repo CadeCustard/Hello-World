@@ -11,9 +11,11 @@ Some of my favorite things are,
 #### [My Resume](Resume.md)
 
 ### Some code I've written
-[Area of a shape calculator](VolumeOfShapes.py)
+[Area of a shape calculator](VolumeOfShapes.md)
 
-[Turtle Image](TurtleImageCode.py)
+[Turtle Image](TurtleImageCode.md)
+
+[List Loop](List_loop.md)
 
 ### A picture of beans 
 
