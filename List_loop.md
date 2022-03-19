@@ -1,4 +1,5 @@
-Numbers = [6,5,3,8,4,2,5,4,11,43,1,17,27,90,77,62,51,47,82,86,20]
+[Return](README.md)
+`Numbers = [6,5,3,8,4,2,5,4,11,43,1,17,27,90,77,62,51,47,82,86,20]
 #Determine how many numbers are in the list
 
 print(len(Numbers))
@@ -18,4 +19,4 @@ while Sum2 < len(Numbers):
 #Use a For loop and the range() function to print every other number in the list with their index values.
 print()
 for counter in range(0, len(Numbers), 2):
-    print(Numbers[counter])
+    print(Numbers[counter])`
